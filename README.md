@@ -1,0 +1,4 @@
+SQL Ecommerce es un proyecto académico diseñado para demostrar el uso práctico de bases de datos relacionales mediante el desarrollo de una plataforma de comercio electrónico.
+La base de datos contiene ocho tablas principales: CATEGORIAS, PROVEEDORES, PRODUCTOS, CLIENTES, ORDENES, EMPLEADOS, INVENTARIO y DETALLE_ORDENES.
+Cada tabla cumple un rol específico en la gestión integral del negocio virtual, desde la organización de categorías y proveedores hasta el seguimiento de clientes, empleados y productos disponibles en inventario.
+La tabla ORDENES centraliza la información de cada transacción de compra, incluyendo detalles como el cliente, la fecha de la orden, los productos adquiridos, cantidades y precios unitarios. Este proyecto no solo demuestra habilidades en diseño de bases de datos utilizando SQL, sino también la capacidad para implementar y gestionar eficientemente un sistema de comercio electrónico virtual
