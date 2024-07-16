@@ -1,7 +1,7 @@
 ## Descripción:
 
 "SQL Ecommerce" es un proyecto académico diseñado para el curso de SQL de Coderhouse. Debemos demostrar el uso práctico de bases de datos relacionales. <br>
-En este contexto, elegí desarrollar como temática una plataforma de comercio electrónico que permite gestionar eficientemente la compra y venta de productos tecnológicos. <br>
+En este contexto, elegí desarrollar como temática una plataforma de comercio electrónico que permite gestionar eficientemente la compra y venta de productos tecnológicos, enfocándome especialmente en artículos destinados al público gamer. <br>
 La base de datos contiene siete tablas principales: <br><br>
 `Categorías` <br>
 `Proveedores` <br>
